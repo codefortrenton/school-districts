@@ -1,7 +1,3 @@
-Disclaimer,""
-Street Directory,""
-Student Transition Guide,""
-List of Common Rental Units,""
 Street,Zip,"",Lo,High,School,Odd/Even
 Aberfeldy Drive,08618,"","","",Jefferson Elementary,""
 Aberfeldy Drive,08618,"","","",Kilmer Middle School,""
@@ -50,7 +46,6 @@ Asbury Street,08611,"","","",Dunn Middle,""
 Ashmore Avenue,08611,"",1,199,Washington Elementary,""
 Ashmore Avenue,08611,"",200,End,Franklin Elementary,""
 Ashmore Avenue,08611,"","","",Dunn Middle,""
-Street,Zip,"",Lo,High,School,Odd/Even
 Atterbury Avenue,08618,"","","",Kilmer Middle School,""
 Bank Street,08618,"","","",King Elementary,""
 Bank Street,08618,"","","",Rivera Middle,""
@@ -98,7 +93,6 @@ Bismarck Avenue,08618,"","","",Robeson Elementary,""
 Bismarck Avenue,08629,"","","",Hg-Wms. Middle,""
 Bloomfield Avenue,08618,"","","",Jefferson Elementary,""
 Bloomfield Avenue,08618,"","","",Kilmer Middle School,""
-Street,Zip,"",Lo,High,School,Odd/Even
 Bond Street,08618,"","","",Rivera Middle,""
 Borden Way,08618,"","","",King Elementary,""
 Borden Way,08618,"","","",Rivera Middle,""
@@ -146,7 +140,6 @@ Calhoun Street,08618,"",614,1998,King Elementary,last odd 875/last even 1998
 Calhoun Street,08618,"",1,1998,Rivera Middle,last odd 875/last even 1998
 Camden Street,08618,"","","",Gregory Elem (Monument),""
 Camden Street,08618,"","","",Rivera Middle,""
-Street,Zip,"",Lo,High,School,Odd/Even
 Canal Street - East,08609,"","","",Hg-Wms. Middle,""
 Canal Street - West,08609,"","","",Grant Elementary,""
 Canal Street - West,08609,"","","",Rivera Middle,""
@@ -194,7 +187,6 @@ Chase Street,08638,"","","",King Elementary,""
 Chase Street,08638,"","","",Rivera Middle,""
 Chauncey Avenue,08638,"","","",King Elementary,""
 Chauncey Avenue,08638,"","","",Rivera Middle,""
-Street,Zip,"",Lo,High,School,Odd/Even
 Chelten Way,08638,"","","",Rivera Middle,""
 Chelton Avenue,08638,"","","",Gregory Elem (Monument),""
 Chelton Avenue,08638,"","","",Rivera Middle,""
@@ -242,7 +234,6 @@ Colonial Avenue,08618,"","","",Kilmer Middle School,""
 Columbia Avenue,08638,"","","",Jefferson Elementary,""
 Columbia Avenue,08638,"","","",Kilmer Middle School,""
 Columbus Avenue,08629,"",1,361,Robeson Elementary,""
-Street,Zip,"",Lo,High,School,Odd/Even
 Columbus Avenue,08629,"",1,361,Hg-Wms. Middle,""
 Columbus Avenue,08629,"",362,End,Dunn Middle,""
 Commerce Street,08618,"","","",King Elementary,""
@@ -290,7 +281,6 @@ Cummings Place,08611,"","","",Dunn Middle,""
 Cuyler Avenue,08609,"",1,150,Hill Elementary,""
 Cuyler Avenue,08629,"",151,End,Robeson Elementary,""
 Cuyler Avenue,08609,"","","",Hg-Wms. Middle,""
-Street,Zip,"",Lo,High,School,Odd/Even
 Dale Street,08618,"","","",Rivera Middle,""
 Davis Avenue,08629,"","","",Washington Elementary,""
 Davis Avenue,08629,"","","",Dunn Middle,""
@@ -338,7 +328,6 @@ Edgemere Avenue,08618,"","","",Gregory Elementary,""
 Edgemere Avenue,08618,"","","",Kilmer Middle School,""
 Edgewood Avenue,08618,"",500,799,Gregory Elementary,""
 Edgewood Avenue,08618,"",800,End,Jefferson Elementary,""
-Street,Zip,"",Lo,High,School,Odd/Even
 Edmond Alley,08610,"","","",Gregory Elementary,""
 Edmond Alley,08610,"","","",Kilmer Middle School,""
 Edwards Plaza,08618,"","","",Jefferson Elementary,""
@@ -386,7 +375,6 @@ Fairway Drive,08618,"","","",Rivera Middle,""
 Farragut Avenue,08629,"","","",Robeson Elementary,""
 Farragut Avenue,08629,"","","",Hg-Wms. Middle,""
 Federal Street,08611,"","","",Dunn Middle,""
-Street,Zip,"",Lo,High,School,Odd/Even
 Fell Street,08638,"","","",King Elementary,""
 Fell Street,08638,"","","",Rivera Middle,""
 Ferry Street,08611,"","","",Parker Elementary,""
@@ -434,7 +422,6 @@ Genesee Street,08611,"",600,1345,Franklin Elementary,last odd 1345/last even 132
 Genesee Street,08611,"",1,1345,Dunn Middle,last odd 1345/last even 1328
 George Street,08638,"","","",King Elementary,""
 George Street,08638,"","","",Rivera Middle,""
-Street,Zip,"",Lo,High,School,Odd/Even
 Girard Avenue,08638,"","","",Rivera Middle,""
 Gladstone Avenue,08629,"","","",Robeson Elementary,""
 Gladstone Avenue,08629,"","","",Hg-Wms. Middle,""
@@ -482,7 +469,6 @@ Hanover Street West,08618,"",410,End,Gregory Elementary,""
 Hanover Street West,08618,"",1,409,Rivera Middle,""
 Hanover Street West,08618,"",410,End,Kilmer Middle School,""
 Harding Street,08611,"","","",Columbus Elem (Harrison),""
-Street,Zip,"",Lo,High,School,Odd/Even
 Harris Avenue,08618,"","","",King Elementary,""
 Harris Avenue,08618,"","","",Rivera Middle,""
 Hart Avenue,08638,"","","",Wilson Elementary,""
@@ -530,7 +516,6 @@ Howard Street,08611,"","","",Columbus Elem (Harrison),""
 Howard Street,08611,"","","",Dunn Middle,""
 Howell Street,08610,"","","",Franklin Elementary,""
 Howell Street,08610,"","","",Dunn Middle,""
-Street,Zip,"",Lo,High,School,Odd/Even
 Hudson Court,08611,"","","",Dunn Middle,""
 Hudson Street,08611,"",1,450,Robbins Elementary,""
 Hudson Street,08611,"",451,699,Washington Elementary,""
@@ -578,7 +563,6 @@ Kensington Avenue,08618,"","","",Jefferson Elementary,""
 Kensington Avenue,08618,"","","",Kilmer Middle School,""
 Kent Street,08611,"","","",Washington Elementary,""
 Kent Street,08611,"","","",Dunn Middle,""
-Street,Zip,"",Lo,High,School,Odd/Even
 Kingsbury Square,08611,"","","",Dunn Middle,""
 Kirkbride Avenue,08638,"",1,167,King Elementary,Last even 140/Last odd 167
 Kirkbride Avenue,08638,"",1,167,Rivera Middle,Last even 140/Last odd 167
@@ -626,7 +610,6 @@ Liberty Street,08611,"",2,60,Columbus Elem (Harrison),Even only
 Liberty Street,08611,"",62,1047,Franklin Elementary,All
 Liberty Street,08611,"",1048,1498,Franklin Elementary,Even only
 Liberty Street,08629,"",1500,2116,Robeson Elementary,"Even only, Last number 2116"
-Street,Zip,"",Lo,High,School,Odd/Even
 Liberty Street,08629,"",1500,2116,Hg-Wms. Middle,"Even only, Last number 2116"
 Lincoln Avenue,08609,"","","",Grant Elementary,""
 Lincoln Avenue,08609,"","","",Rivera Middle,""
@@ -674,7 +657,6 @@ Mercer Street,08611,"","","",Parker Elementary,""
 Mercer Street,08611,"","","",Dunn Middle,""
 Merchant Street,08608,"","","",Grant Elementary,""
 Merchant Street,08608,"","","",Rivera Middle,""
-Street,Zip,"",Lo,High,School,Odd/Even
 Michigan Avenue,08638,"",1,106,Rivera Middle,""
 Middle Rose Street,08618,"","","",King Elementary,""
 Middle Rose Street,08618,"","","",Rivera Middle,""
@@ -722,7 +704,6 @@ Napton Street,08609,"","","",Robbins Elementary,4th & 5th graders to Hill
 Napton Street,08609,"","","",Hg-Wms. Middle,""
 Nassau Street,08638,"","","",King Elementary,""
 Nassau Street,08638,"","","",Rivera Middle,""
-Street,Zip,"",Lo,High,School,Odd/Even
 Nelson Street,08618,"","","",Kilmer Middle School,Currently no homes
 New Jersey Avenue,08629,"","","",Robeson Elementary,""
 New Jersey Avenue,08629,"","","",Hg-Wms. Middle,""
@@ -770,7 +751,6 @@ Olive Street,08618,"","","",King Elementary,""
 Olive Street,08618,"","","",Rivera Middle,""
 Oliver Avenue,08618,"","","",Jefferson Elementary,""
 Oliver Avenue,08618,"","","",Kilmer Middle School,""
-Street,Zip,"",Lo,High,School,Odd/Even
 Orange Street,08611,"","","",Dunn Middle,""
 Overbrook Avenue North,08618,"","","",Gregory Elementary,""
 Overbrook Avenue North,08618,"","","",Kilmer Middle School,""
@@ -818,7 +798,6 @@ Phillips Court,08618,"","","",Gregory Elementary,""
 Phillips Court,08618,"","","",Kilmer Middle School,""
 Pierce Avenue,08629,"","","",Robeson Elementary,""
 Pierce Avenue,08629,"","","",Hg-Wms. Middle,""
-Street,Zip,"",Lo,High,School,Odd/Even
 Pine Street,08638,"",600,830,Rivera Middle,""
 Plum Street,08638,"","","",Columbus Elementary,""
 Plum Street,08638,"","","",Rivera Middle,""
@@ -866,7 +845,6 @@ Richey Place,08618,"","","",Kilmer Middle School,""
 Rider Avenue,08609,"","","",Grant Elementary,""
 Rider Avenue,08609,"","","",Rivera Middle,""
 Ringold Street,08618,"","","",King Elementary,""
-Street,Zip,"",Lo,High,School,Odd/Even
 River Drive,08618,"","","",Jefferson Elementary,""
 River Drive,08618,"","","",Kilmer Middle School,""
 Riverside Avenue,08618,"",1,732,Gregory Elementary,""
@@ -914,7 +892,6 @@ Shelburne Avenue,08618,"","","",Kilmer Middle School,""
 Sheppards Alley,08638,"","","",Rivera Middle,""
 Sheppard's Alley,08638,"","","",King Elementary,""
 Sheridan Avenue,08609,"","","",Grant Elementary,""
-Street,Zip,"",Lo,High,School,Odd/Even
 Sherman Avenue,08638,"","","",Wilson Elementary,""
 Sherman Avenue,08638,"","","",Rivera Middle,""
 Short Street,08618,"","","",Gregory Elem (Monument),""
@@ -962,7 +939,6 @@ Stokes Avenue,08638,"","","",Columbus Elementary,""
 Stokes Avenue,08638,"","","",Rivera Middle,""
 Strawberry Street,08638,"","","",Wilson Elementary,""
 Strawberry Street,08638,"","","",Rivera Middle,""
-Street,Zip,"",Lo,High,School,Odd/Even
 Stuyvesant Avenue,08618,"",801,1528,Jefferson Elementary,last even 1524/last odd 1529
 Stuyvesant Avenue,08618,"",1,1528,Kilmer Middle School,Last even 1524/Last odd 1529
 Sullivan Way,08618,"","","",Jefferson Elementary,""
@@ -1010,7 +986,6 @@ Vine Street,08638,"","","",Rivera Middle,""
 Violet Street,08618,"","","",King Elementary,""
 Violet Street,08618,"","","",Rivera Middle,""
 Virginia Avenue,08611,"",1,199,Columbus Elem (Harrison),""
-Street,Zip,"",Lo,High,School,Odd/Even
 Virginia Avenue,08611,"","","",Dunn Middle,""
 Vroom Street,08610,"","","",Franklin Elementary,""
 Vroom Street,08610,"","","",Dunn Middle,""
@@ -1058,7 +1033,6 @@ Westfield Avenue South,08618,"","","",Kilmer Middle School,""
 Westminister Avenue,08618,"","","",Jefferson Elementary,""
 Westminister Avenue,08618,"","","",Kilmer Middle School,""
 White Street,08618,"","","",Gregory Elem (Monument),""
-Street,Zip,"",Lo,High,School,Odd/Even
 Whittaker Avenue,08611,"",1,299,Robbins Elementary,""
 Whittaker Avenue,08611,"",300,End,Washington Elementary,""
 Whittaker Avenue,08611,"",1,299,Hg-Wms. Middle,""
