@@ -46,10 +46,10 @@ SL,WOSNIAK CT,,,,Page1
 LES,YEGER DR,,,,Page1
 BF,YORKSHIRE VILLAGE RD,,,,Page1
 LES,YOUNGS RD (No Homes),,,,Page1
-BF,ZOAR ST,40,,,Page1
+BF,ZOAR ST,40,999,,Page1
 EP,ZOAR ST,0,40,,Page1
-SL,QUAKERBRIDGE RD,4018,4262,Evens,copy_of_street_addresses_with_school_of_attendance_sorted5b
-BF,QUAKERBRIDGE RD,4264,4276,Evens   ,copy_of_street_addresses_with_school_of_attendance_sorted5b
+SL,QUAKERBRIDGE RD,4018,4262,even,copy_of_street_addresses_with_school_of_attendance_sorted5b
+BF,QUAKERBRIDGE RD,4264,4276,even,copy_of_street_addresses_with_school_of_attendance_sorted5b
 EP,SKILLMAN AVE,,,,copy_of_street_addresses_with_school_of_attendance_sorted5b
 BF,SKY CT,,,,copy_of_street_addresses_with_school_of_attendance_sorted5b
 SL,SLACK AVE,,,,copy_of_street_addresses_with_school_of_attendance_sorted5b
@@ -60,7 +60,7 @@ BF,SONNET PLACE,,,,copy_of_street_addresses_with_school_of_attendance_sorted5b
 BF,SOUTH ST,,,,copy_of_street_addresses_with_school_of_attendance_sorted5b
 BF,SPRING BEAUTY DR,,,,copy_of_street_addresses_with_school_of_attendance_sorted5b
 LES,SPRINGWOOD DR,,,,copy_of_street_addresses_with_school_of_attendance_sorted5b
-SL,SPRUCE ST,834,1120,Even,copy_of_street_addresses_with_school_of_attendance_sorted5b
+SL,SPRUCE ST,834,1120,even,copy_of_street_addresses_with_school_of_attendance_sorted5b
 EP,STELLA DR,,,,copy_of_street_addresses_with_school_of_attendance_sorted5b
 SL,STEVENS AVE,,,,copy_of_street_addresses_with_school_of_attendance_sorted5b
 EP,STEWARDS CRSSNG WAY/CIRCLE,,,,copy_of_street_addresses_with_school_of_attendance_sorted5b
