@@ -5,9 +5,25 @@
 	*  lawrence_township.osm osm files for the streets, used to look up missing streets
 	*  shape/*.shp are the shape files per school
 	*  street.pdf/street.txt streetmap from the city
-	*  
+	*  output/ contains outputs calculated 
+	**    lawrence_disolve.shp contains all areas with a buffer of 0.001 appliend and dissolved 
+	** all_way.osm contains all schools and information together
+	** X_way.osm contains the output for that input
+	** X/lines.shp contains the shapefile for the input
+	** X_way.shp contains the merged data for that layer
+
 # schools
-  
+* SL Slackwood Elementary
+* BF Ben Franklin Elementary
+* EP Eldridge Park Elementary
+* LES Lawrenceville Elementary
+
+Untagged:
+* UN - unknown streets
+* NO  - No school found
+* NEW - new streets
+ 
+ 
 # Paper streets
 * BROOKWAY ROAD 
 * DARBY AVENUE 
