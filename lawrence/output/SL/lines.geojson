@@ -1,7 +1,6 @@
 {
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                                                                  
 "features": [
 { "type": "Feature", "properties": { "osm_id": "1248951", "name": null, "highway": null, "school": "SL", "addr_stree": "brunswick", "addr_house": null, "addr_city": "Lawrence twp", "addr_full": "2226 brunswick ave", "z_order": 0, "other_tags": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -74.730703199999979, 40.2540199 ], [ -74.730755799999983, 40.2539767 ], [ -74.730817, 40.253926199999988 ], [ -74.731164799999988, 40.2541762 ], [ -74.7310515, 40.2542699 ], [ -74.730703199999979, 40.2540199 ], [ -74.730703199999979, 40.2540199 ] ] ] } },
 { "type": "Feature", "properties": { "osm_id": "1248951", "name": null, "highway": null, "school": "SL", "addr_stree": "brunswick", "addr_house": null, "addr_city": "Lawrence twp", "addr_full": "2226 brunswick ave", "z_order": 0, "other_tags": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -74.730703199999979, 40.2540199 ], [ -74.730755799999983, 40.2539767 ], [ -74.730817, 40.253926199999988 ], [ -74.731164799999988, 40.2541762 ], [ -74.7310515, 40.2542699 ], [ -74.730703199999979, 40.2540199 ], [ -74.730703199999979, 40.2540199 ] ] ] } },

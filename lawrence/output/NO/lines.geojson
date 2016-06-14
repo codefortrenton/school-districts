@@ -1,7 +1,6 @@
 {
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                                                                  
 "features": [
 { "type": "Feature", "properties": { "osm_id": "1260102", "name": null, "highway": null, "school": null, "addr_stree": null, "addr_house": null, "addr_city": "Lawrence twp", "addr_full": "Alcazar ave", "z_order": 0, "other_tags": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -74.749878299999978, 40.2645441 ], [ -74.749897, 40.264363399999986 ], [ -74.7500047, 40.2643703 ], [ -74.749987, 40.2645517 ], [ -74.749878299999978, 40.2645441 ], [ -74.749878299999978, 40.2645441 ] ] ] } },
 { "type": "Feature", "properties": { "osm_id": "1260108", "name": null, "highway": null, "school": "NO", "addr_stree": "alcazar", "addr_house": null, "addr_city": "Lawrence twp", "addr_full": "111 alcazar ave", "z_order": 0, "other_tags": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -74.752333599999986, 40.2647583 ], [ -74.752339599999985, 40.2646972 ], [ -74.752529, 40.264708399999989 ], [ -74.752573799999979, 40.2647719 ], [ -74.752333599999986, 40.2647583 ], [ -74.752333599999986, 40.2647583 ] ] ] } },
