@@ -1,3 +1,4 @@
+#mv new-jersey-latest.osm.pbf new-jersey-latest.osm.pbf.old
 if [ ! -f new-jersey-latest.osm.pbf ];
 then
     wget http://download.geofabrik.de/north-america/us/new-jersey-latest.osm.pbf
