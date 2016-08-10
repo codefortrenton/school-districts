@@ -1,4 +1,8 @@
-Trenton data from :
-http://www.trenton.k12.nj.us/Downloads/2015-16%20Street%20Directory%203-16-2016.pdf
 
-Converted using http://tabula.technology/
+# Process osm data
+
+The script split.sh will use osmosis to split up the new jersey pbf file from geofabrik.
+You need to remove the old pbf file to get it to download again.
+
+
+  

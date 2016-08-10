@@ -22738,6 +22738,101 @@
   <node id="4268449796" version="1" timestamp="2016-06-27T17:20:39Z" uid="182051" user="mario824" changeset="40325826" lat="40.2138954" lon="-74.5701617"/>
   <node id="4268449797" version="1" timestamp="2016-06-27T17:20:39Z" uid="182051" user="mario824" changeset="40325826" lat="40.2141102" lon="-74.5723414"/>
   <node id="4268449798" version="1" timestamp="2016-06-27T17:20:39Z" uid="182051" user="mario824" changeset="40325826" lat="40.2137646" lon="-74.570202"/>
+  <node id="4336293369" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2211828" lon="-74.6338937"/>
+  <node id="4336293370" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2210727" lon="-74.6341285"/>
+  <node id="4336293371" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2212145" lon="-74.6342426"/>
+  <node id="4336293372" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2212954" lon="-74.6340701"/>
+  <node id="4336293373" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2214114" lon="-74.6341635"/>
+  <node id="4336293374" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2214899" lon="-74.6339961"/>
+  <node id="4336293375" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2215434" lon="-74.6340391"/>
+  <node id="4336293376" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2216111" lon="-74.6338947"/>
+  <node id="4336293377" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2215123" lon="-74.6338153"/>
+  <node id="4336293378" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2214969" lon="-74.6338482"/>
+  <node id="4336293379" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2214408" lon="-74.6338031"/>
+  <node id="4336293380" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2213885" lon="-74.6335215"/>
+  <node id="4336293381" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2212073" lon="-74.6335791"/>
+  <node id="4336293382" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2212598" lon="-74.6338621"/>
+  <node id="4336293383" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.221228" lon="-74.6339299"/>
+  <node id="4336293384" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2216319" lon="-74.6337153"/>
+  <node id="4336293385" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2215928" lon="-74.6335065"/>
+  <node id="4336293386" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2218316" lon="-74.6334297"/>
+  <node id="4336293387" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2218708" lon="-74.6336385"/>
+  <node id="4336293388" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2215267" lon="-74.6334601"/>
+  <node id="4336294089" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.221457" lon="-74.6330902"/>
+  <node id="4336294090" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2212952" lon="-74.6331425"/>
+  <node id="4336294091" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2213649" lon="-74.6335123"/>
+  <node id="4336294092" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2209945" lon="-74.63327"/>
+  <node id="4336294093" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2211542" lon="-74.6332191"/>
+  <node id="4336294094" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.221218" lon="-74.6335623"/>
+  <node id="4336294095" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2210583" lon="-74.6336133"/>
+  <node id="4336294096" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2210636" lon="-74.6339016"/>
+  <node id="4336294097" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2207829" lon="-74.6339974"/>
+  <node id="4336294098" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2207412" lon="-74.6337878"/>
+  <node id="4336294099" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2210219" lon="-74.633692"/>
+  <node id="4336294100" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2205925" lon="-74.6333731"/>
+  <node id="4336294101" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2206819" lon="-74.6338528"/>
+  <node id="4336294102" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.220721" lon="-74.6338968"/>
+  <node id="4336294103" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2210917" lon="-74.6337862"/>
+  <node id="4336294104" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.221132" lon="-74.6337447"/>
+  <node id="4336294105" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2211563" lon="-74.6336658"/>
+  <node id="4336294106" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2210551" lon="-74.6331381"/>
+  <node id="4336294107" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2206428" lon="-74.6332707"/>
+  <node id="4336294108" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2206049" lon="-74.6333113"/>
+  <node id="4336294109" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2215263" lon="-74.6329861"/>
+  <node id="4336294110" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2215865" lon="-74.6329576"/>
+  <node id="4336294111" version="1" timestamp="2016-08-05T00:52:02Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2217383" lon="-74.6327904"/>
+  <node id="4336294112" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2213615" lon="-74.6330393"/>
+  <node id="4336294113" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2214474" lon="-74.6335162"/>
+  <node id="4336294114" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.221476" lon="-74.6335927"/>
+  <node id="4336294115" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2215263" lon="-74.6336341"/>
+  <node id="4336294116" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2215877" lon="-74.6336268"/>
+  <node id="4336294117" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2220266" lon="-74.6334787"/>
+  <node id="4336294118" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2219853" lon="-74.6336115"/>
+  <node id="4336294119" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2214436" lon="-74.6337879"/>
+  <node id="4336294120" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2214992" lon="-74.6338138"/>
+  <node id="4336294121" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2214658" lon="-74.6337807"/>
+  <node id="4336294122" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2216266" lon="-74.6337283"/>
+  <node id="4336294123" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2216151" lon="-74.6336701"/>
+  <node id="4336294124" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2216071" lon="-74.6336688"/>
+  <node id="4336294125" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2216005" lon="-74.6336738"/>
+  <node id="4336294126" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2215897" lon="-74.6336922"/>
+  <node id="4336294127" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2215698" lon="-74.6337053"/>
+  <node id="4336294128" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2215555" lon="-74.6337116"/>
+  <node id="4336294129" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2215376" lon="-74.6337096"/>
+  <node id="4336294130" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2215159" lon="-74.6337036"/>
+  <node id="4336294131" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2214926" lon="-74.6336865"/>
+  <node id="4336294132" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2214711" lon="-74.6336681"/>
+  <node id="4336294133" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2214642" lon="-74.6336611"/>
+  <node id="4336294134" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2214489" lon="-74.633644"/>
+  <node id="4336294135" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2214323" lon="-74.6336229"/>
+  <node id="4336294136" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2214156" lon="-74.6335971"/>
+  <node id="4336294137" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.221411" lon="-74.633571"/>
+  <node id="4336294138" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2214075" lon="-74.6335506"/>
+  <node id="4336294139" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2214118" lon="-74.6335211"/>
+  <node id="4336294140" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2214402" lon="-74.633633"/>
+  <node id="4336294141" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2214144" lon="-74.6336413"/>
+  <node id="4336294142" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2214481" lon="-74.6336775"/>
+  <node id="4336294143" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2214225" lon="-74.6336862"/>
+  <node id="4336294144" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2211965" lon="-74.633586"/>
+  <node id="4336294145" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.221206" lon="-74.6336381"/>
+  <node id="4336294146" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.221206" lon="-74.6336765"/>
+  <node id="4336294147" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.221197" lon="-74.6337156"/>
+  <node id="4336294148" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2211891" lon="-74.6337436"/>
+  <node id="4336294149" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2211727" lon="-74.6337808"/>
+  <node id="4336294150" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2211543" lon="-74.6338153"/>
+  <node id="4336294151" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2211314" lon="-74.6338348"/>
+  <node id="4336294152" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.221117" lon="-74.6338478"/>
+  <node id="4336294153" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2210991" lon="-74.633855"/>
+  <node id="4336294154" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2210807" lon="-74.6338511"/>
+  <node id="4336294155" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2210652" lon="-74.6338485"/>
+  <node id="4336294156" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2210647" lon="-74.6338752"/>
+  <node id="4336294157" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2210712" lon="-74.6339062"/>
+  <node id="4336294158" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2212509" lon="-74.6338487"/>
+  <node id="4336294159" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2212121" lon="-74.6337563"/>
+  <node id="4336294160" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2212349" lon="-74.6337497"/>
+  <node id="4336294161" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2212307" lon="-74.6338552"/>
+  <node id="4336294162" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2212131" lon="-74.6339066"/>
+  <node id="4336294163" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152" lat="40.2208024" lon="-74.6339941"/>
   <way id="11638480" version="2" timestamp="2012-12-23T03:23:37Z" uid="451693" user="bot-mode" changeset="14373187">
     <nd ref="103943171"/>
     <nd ref="103943172"/>
@@ -30515,10 +30610,12 @@
     <tag k="name" v="Hulse Street"/>
     <tag k="highway" v="residential"/>
   </way>
-  <way id="39317013" version="4" timestamp="2013-12-06T03:47:39Z" uid="126442" user="johnjreiser" changeset="19299836">
+  <way id="39317013" version="5" timestamp="2016-08-05T00:52:04Z" uid="4019472" user="Luisi Mouse" changeset="41250152">
     <nd ref="471053937"/>
     <nd ref="471053931"/>
+    <nd ref="4336294117"/>
     <nd ref="471053933"/>
+    <nd ref="4336294111"/>
     <nd ref="471053927"/>
     <nd ref="471053462"/>
     <nd ref="471053929"/>
@@ -30553,8 +30650,8 @@
     <nd ref="471054364"/>
     <nd ref="471054366"/>
     <nd ref="471054291"/>
-    <tag k="name" v="Union Street"/>
     <tag k="highway" v="residential"/>
+    <tag k="name" v="Union Street"/>
   </way>
   <way id="39317014" version="1" timestamp="2009-08-19T16:03:08Z" uid="126442" user="johnjreiser" changeset="2202202">
     <nd ref="471054467"/>
@@ -49715,6 +49812,192 @@
     <tag k="highway" v="motorway_link"/>
     <tag k="oneway" v="yes"/>
     <tag k="toll" v="yes"/>
+  </way>
+  <way id="435727564" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152">
+    <nd ref="4336293369"/>
+    <nd ref="4336293370"/>
+    <nd ref="4336293371"/>
+    <nd ref="4336293372"/>
+    <nd ref="4336293373"/>
+    <nd ref="4336293374"/>
+    <nd ref="4336293375"/>
+    <nd ref="4336293376"/>
+    <nd ref="4336293377"/>
+    <nd ref="4336293378"/>
+    <nd ref="4336293379"/>
+    <nd ref="4336293380"/>
+    <nd ref="4336293381"/>
+    <nd ref="4336293382"/>
+    <nd ref="4336293383"/>
+    <nd ref="4336293369"/>
+    <tag k="addr:city" v="Robbinsville"/>
+    <tag k="addr:housenumber" v="2314"/>
+    <tag k="addr:postcode" v="08691"/>
+    <tag k="addr:state" v="NJ"/>
+    <tag k="addr:street" v="NJ 33"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Seventh Day Adventist Church"/>
+    <tag k="religion" v="christian"/>
+  </way>
+  <way id="435727565" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152">
+    <nd ref="4336293384"/>
+    <nd ref="4336293385"/>
+    <nd ref="4336293386"/>
+    <nd ref="4336293387"/>
+    <nd ref="4336293384"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="operator" v="Seventh Day Adventist Church"/>
+  </way>
+  <way id="435727566" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152">
+    <nd ref="4336293388"/>
+    <nd ref="4336294089"/>
+    <nd ref="4336294090"/>
+    <nd ref="4336294091"/>
+    <nd ref="4336293388"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="operator" v="Seventh Day Adventist Church"/>
+  </way>
+  <way id="435727567" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152">
+    <nd ref="4336294092"/>
+    <nd ref="4336294093"/>
+    <nd ref="4336294094"/>
+    <nd ref="4336294095"/>
+    <nd ref="4336294092"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="operator" v="Seventh Day Adventist Church"/>
+  </way>
+  <way id="435727568" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152">
+    <nd ref="4336294096"/>
+    <nd ref="4336294097"/>
+    <nd ref="4336294098"/>
+    <nd ref="4336294099"/>
+    <nd ref="4336294096"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="operator" v="Seventh Day Adventist Church"/>
+  </way>
+  <way id="435727569" version="1" timestamp="2016-08-05T00:52:03Z" uid="4019472" user="Luisi Mouse" changeset="41250152">
+    <nd ref="4336294100"/>
+    <nd ref="4336294101"/>
+    <nd ref="4336294102"/>
+    <nd ref="4336294103"/>
+    <nd ref="4336294104"/>
+    <nd ref="4336294105"/>
+    <nd ref="4336294106"/>
+    <nd ref="4336294107"/>
+    <nd ref="4336294108"/>
+    <nd ref="4336294100"/>
+    <tag k="access" v="destination"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="435727570" version="1" timestamp="2016-08-05T00:52:04Z" uid="4019472" user="Luisi Mouse" changeset="41250152">
+    <nd ref="4336294106"/>
+    <nd ref="4336294112"/>
+    <nd ref="4336294109"/>
+    <nd ref="4336294110"/>
+    <nd ref="4336294111"/>
+    <tag k="access" v="destination"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="435727571" version="1" timestamp="2016-08-05T00:52:04Z" uid="4019472" user="Luisi Mouse" changeset="41250152">
+    <nd ref="4336294112"/>
+    <nd ref="4336294113"/>
+    <nd ref="4336294114"/>
+    <nd ref="4336294115"/>
+    <nd ref="4336294116"/>
+    <nd ref="4336294117"/>
+    <tag k="access" v="destination"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="435727572" version="1" timestamp="2016-08-05T00:52:04Z" uid="4019472" user="Luisi Mouse" changeset="41250152">
+    <nd ref="4336294118"/>
+    <nd ref="4336294122"/>
+    <nd ref="4336294121"/>
+    <nd ref="4336294119"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="435727573" version="1" timestamp="2016-08-05T00:52:04Z" uid="4019472" user="Luisi Mouse" changeset="41250152">
+    <nd ref="4336294120"/>
+    <nd ref="4336294121"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="435727574" version="1" timestamp="2016-08-05T00:52:04Z" uid="4019472" user="Luisi Mouse" changeset="41250152">
+    <nd ref="4336294122"/>
+    <nd ref="4336294123"/>
+    <nd ref="4336294124"/>
+    <nd ref="4336294125"/>
+    <nd ref="4336294126"/>
+    <nd ref="4336294127"/>
+    <nd ref="4336294128"/>
+    <nd ref="4336294129"/>
+    <nd ref="4336294130"/>
+    <nd ref="4336294131"/>
+    <nd ref="4336294132"/>
+    <nd ref="4336294133"/>
+    <nd ref="4336294134"/>
+    <nd ref="4336294140"/>
+    <nd ref="4336294135"/>
+    <nd ref="4336294136"/>
+    <nd ref="4336294137"/>
+    <nd ref="4336294138"/>
+    <nd ref="4336294139"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="435727575" version="1" timestamp="2016-08-05T00:52:04Z" uid="4019472" user="Luisi Mouse" changeset="41250152">
+    <nd ref="4336294140"/>
+    <nd ref="4336294141"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="435727576" version="1" timestamp="2016-08-05T00:52:04Z" uid="4019472" user="Luisi Mouse" changeset="41250152">
+    <nd ref="4336294133"/>
+    <nd ref="4336294142"/>
+    <nd ref="4336294121"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="435727577" version="1" timestamp="2016-08-05T00:52:04Z" uid="4019472" user="Luisi Mouse" changeset="41250152">
+    <nd ref="4336294142"/>
+    <nd ref="4336294143"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="435727578" version="1" timestamp="2016-08-05T00:52:04Z" uid="4019472" user="Luisi Mouse" changeset="41250152">
+    <nd ref="4336294144"/>
+    <nd ref="4336294145"/>
+    <nd ref="4336294146"/>
+    <nd ref="4336294147"/>
+    <nd ref="4336294148"/>
+    <nd ref="4336294149"/>
+    <nd ref="4336294150"/>
+    <nd ref="4336294151"/>
+    <nd ref="4336294152"/>
+    <nd ref="4336294153"/>
+    <nd ref="4336294154"/>
+    <nd ref="4336294155"/>
+    <nd ref="4336294156"/>
+    <nd ref="4336294157"/>
+    <nd ref="4336294161"/>
+    <nd ref="4336294158"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="435727579" version="1" timestamp="2016-08-05T00:52:04Z" uid="4019472" user="Luisi Mouse" changeset="41250152">
+    <nd ref="4336294148"/>
+    <nd ref="4336294159"/>
+    <nd ref="4336294160"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="435727580" version="1" timestamp="2016-08-05T00:52:04Z" uid="4019472" user="Luisi Mouse" changeset="41250152">
+    <nd ref="4336294159"/>
+    <nd ref="4336294161"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="435727581" version="1" timestamp="2016-08-05T00:52:04Z" uid="4019472" user="Luisi Mouse" changeset="41250152">
+    <nd ref="4336294161"/>
+    <nd ref="4336294162"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="435727582" version="1" timestamp="2016-08-05T00:52:04Z" uid="4019472" user="Luisi Mouse" changeset="41250152">
+    <nd ref="4336294157"/>
+    <nd ref="4336294163"/>
+    <tag k="highway" v="footway"/>
   </way>
   <relation id="170905" version="5" timestamp="2013-04-05T23:43:26Z" uid="42191" user="Jano John Akim Franke" changeset="15626574">
     <member type="way" ref="61923012" role="outer"/>
