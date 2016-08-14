@@ -50033,7 +50033,7 @@
     <tag k="is_in:state_code" v="NJ"/>
     <tag k="is_in:country_code" v="US"/>
   </relation>
-  <relation id="189809" version="209" timestamp="2016-05-05T03:48:56Z" uid="326503" user="wambag" changeset="39110905">
+  <relation id="189809" version="210" timestamp="2016-08-12T00:14:44Z" uid="326503" user="wambag" changeset="41400334">
     <member type="way" ref="11755639" role="north"/>
     <member type="way" ref="120487119" role="north"/>
     <member type="way" ref="29365158" role="north"/>
@@ -50778,7 +50778,6 @@
     <member type="way" ref="27054745" role="east (Newark Bay)"/>
     <member type="way" ref="26784998" role="east (Newark Bay)"/>
     <member type="way" ref="256899604" role="east (Newark Bay)"/>
-    <member type="way" ref="415680443" role="east (Newark Bay)"/>
     <member type="way" ref="26784999" role="east (Newark Bay)"/>
     <member type="way" ref="26785001" role="east (Newark Bay)"/>
     <member type="way" ref="368475475" role=""/>
