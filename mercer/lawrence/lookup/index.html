@@ -1,0 +1,261 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+   
+    <script
+   src="https://code.jquery.com/jquery-3.1.0.min.js"
+integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="
+crossorigin="anonymous"></script>
+    
+
+  </head>
+<body>
+
+  <div style='display:none' id='query'>
+    (
+    relation["name"="Lawrence Township School Districts"];
+    >;
+    );
+    (  ._;  
+    rel(r); 
+    );
+    (  ._;  
+    
+    rel(r); 
+    );
+    out meta;
+  </div>
+
+<script>
+    function xp (xpath, contextNode) {
+	
+	// from https://github.com/jfirebaugh/jquery-xpath/blob/master/jquery.xpath.js
+	// XPath - jQuery wrapper for the DOM 3 XPath API exposed by document.evaluate()
+	// Copyright © 2010 John Firebaugh
+	
+	var iterator = contextNode.evaluate(xpath, contextNode, null, XPathResult.ANY_TYPE, null),
+	    node     = iterator.iterateNext(),
+	    nodes    = [];
+	
+	while (node) {
+	    nodes.push(node);
+	    node = iterator.iterateNext();
+	}
+	
+	return nodes;
+    };
+
+function xp2 (xpath, context, node) {
+	
+	// from https://github.com/jfirebaugh/jquery-xpath/blob/master/jquery.xpath.js
+	// XPath - jQuery wrapper for the DOM 3 XPath API exposed by document.evaluate()
+	// Copyright © 2010 John Firebaugh
+	
+	var iterator = context.evaluate(xpath, node, null, XPathResult.ANY_TYPE, null),
+	    node     = iterator.iterateNext(),
+	    nodes    = [];
+	
+	while (node) {
+	    nodes.push(node);
+	    node = iterator.iterateNext();
+	}
+	
+	return nodes;
+    };
+
+function collect_tags(context, data) {
+
+    rdata = {}
+    
+    tags = xp2( "./tag", context ,data)
+    for (i=0;i<tags.length;i++)
+    {
+	t = tags[i];
+	//console.log(t);
+	k = t.getAttribute('k');
+	v = t.getAttribute('v');
+
+	rdata[k]=v;
+	//console.log("key:" +k +" val:" +v);
+    }
+
+    return rdata;
+}
+
+function collect_ids(context, data) {
+
+    //tags = xp2( , context ,data)
+    var iterator = context.evaluate("./member", data, null, XPathResult.ANY_TYPE, null),
+	node     = iterator.iterateNext(),
+	nodes    = {}
+    
+    while (node) {
+	
+	ref = node.getAttribute('ref')
+	type = node.getAttribute('type')
+	role = node.getAttribute('role')
+
+	nodes[ref]=role
+
+	node = iterator.iterateNext();
+    }
+    
+    return nodes;
+}
+
+function relation(r) {
+    //tags = collect_tags(data, r);
+    
+    // level = tags['school_level']
+    // abbr = tags['abbr']
+    // name = tags['name']
+    // coll = tags['collection']
+    
+    // if (abbr !== null){
+    // 	console.log("Abbr:" +abbr)
+    // 	console.log("Name:" +name)
+    // 	console.log("Coll:" +coll)
+    // 	console.log("Level:" +level)
+    tags = {}
+    nodes = {}
+    //console.log(r)
+    for (i=0;i<r.children.length;i++)
+    {
+	d = r.children[i];
+	ln = d.localName;
+	//console.log("ln:"+ln);
+	
+	switch (ln) {
+
+	case 'member' :
+	    
+	    ref = d.getAttribute('ref')
+	    role = d.getAttribute('role')	    
+	    nodes[ref]=role
+	    
+	    break
+	    
+	case 'tag' :
+	    k = d.getAttribute('k')
+	    v = d.getAttribute('v')
+	    tags[k]=v;
+	    break;
+	default:
+	    console.log(ln);	    
+	}	
+    }
+    
+    //console.log(nodes)
+    //console.log(tags)
+
+    return {
+	'nodes' : nodes,
+	'tags'  : tags
+    }
+}
+
+function getxml_rel(data){
+
+    rdata = {}
+    
+    for (i=0;i<data.children.length;i++)
+    {
+	var d = data.children[i];
+
+	
+	if (d.children === null) {
+	    console.log(d.children);
+	    break;
+	}
+	for (j=0;j<d.children.length;j++)
+	{
+	    var d2 = d.children[j];
+	    ln = d2.localName;
+	    switch (ln) {
+	    case 'relation' :
+		d3 = relation(d2);
+		a = d3['tags']['abbr'];
+
+		if ( a != undefined){
+		    //console.log(a);
+		    rdata[a]=d3;
+		}
+		break;
+	    case 'note' :
+		break;
+	    case 'meta' :
+		break;
+	    default:		
+	    }
+	}
+    }
+    
+    return rdata
+}
+
+function f(query,func ) {
+    url = "http://overpass-api.de/api/interpreter?data=" + encodeURIComponent(query)
+
+    var rdata;
+    
+    g2 = localStorage.getItem('querydata2:'+query);
+    
+    if (g2 === null){
+	
+	g = localStorage.getItem('querydata:'+query)
+	if (g === null){
+	    console.log("data was null")
+	    xmlhttp = new XMLHttpRequest();
+	    xmlhttp.onreadystatechange = function(){
+		if (xmlhttp.readyState == 4 && xmlhttp.status == 200){
+		    data = xmlhttp.responseText
+		    console.log("saving data to cache")
+		    //console.log(data)
+		    localStorage.setItem('querydata:'+query, data);
+		}
+	    }
+	    xmlhttp.open("GET", url, false);
+	    xmlhttp.send();
+	    console.log("getting data from cache")
+	    g = localStorage.getItem('querydata:'+query)
+	    console.log("got new data")
+	    
+	}
+	else
+	{
+	    console.log("using cached data")
+	}
+	//console.log(g);
+	var xml = $.parseXML(g);
+	//console.log(xml);
+
+	rdata = func(xml);
+	
+	json = JSON.stringify(rdata);
+	localStorage.setItem('querydata2:'+query, json);	
+    }
+    else {
+	console.log("using cached json data")
+	rdata = JSON.parse(g2);	
+    }
+    
+    return rdata;
+
+};
+</script>                                                                           
+
+
+<script>                                                                           
+    jQuery(document).ready(function () {
+	console.log("ready")
+	query = $( "#query" )  .text();
+	d = f(query,getxml_rel);
+	//console.log(d);
+	console.log(JSON.stringify(d));
+	
+    }
+);
+</script>
+
+</body>
+</html>
