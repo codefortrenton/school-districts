@@ -100,7 +100,7 @@
                 },
                 mouseover: highlightFeature,
             });
-            var popupContent = '<table><tr><th scope="row">Name</th><td>' + (feature.properties['Name'] !== null ? Autolinker.link(String(feature.properties['Name'])) : '') + '</td></tr><tr><th scope="row">Name</th><td>' + (feature.properties['Name'] !== null ? Autolinker.link(String(feature.properties['Name'])) : '') + '</td></tr></table>';
+            var popupContent = '<table><tr><th scope="row">Name</th><td>' + (feature.properties['Name'] !== null ? Autolinker.link(String(feature.properties['Name'])) : '') + '</td></tr></tr></table>';
             layer.bindPopup(popupContent);
         }
 
