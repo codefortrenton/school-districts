@@ -11,7 +11,7 @@
         <link rel="stylesheet" href="css/label.css" />
         <link rel="stylesheet" href="css/MarkerCluster.css" />
         <link rel="stylesheet" href="css/MarkerCluster.Default.css" />
-        <link rel="stylesheet" href="http://k4r573n.github.io/leaflet-control-osm-geocoder/Control.OSMGeocoder.css" />
+        <link rel="stylesheet" href="css/Control.OSMGeocoder.css" />
         <link rel="stylesheet" href="css/leaflet.draw.css" />
         <link rel="stylesheet" href="css/leaflet.measurecontrol.css" />
         <script src="js/leaflet.js"></script>
@@ -19,7 +19,7 @@
         <script src="js/leaflet-hash.js"></script>
         <script src="js/label.js"></script>
         <script src="js/Autolinker.min.js"></script>
-        <script src="http://k4r573n.github.io/leaflet-control-osm-geocoder/Control.OSMGeocoder.js"></script>
+        <script src="js/Control.OSMGeocoder.js"></script>
         <script src="js/leaflet.draw.js"></script>
         <script src="js/leaflet.measurecontrol.js"></script>
         <script src="js/leaflet.markercluster.js"></script>
@@ -64,7 +64,7 @@
             zoomControl:true, maxZoom:28, minZoom:1
         }).fitBounds([[40.0836452751,-74.9278001577],[40.5318358627,-74.3611725582]]);
         var hash = new L.Hash(map);
-        map.attributionControl.addAttribution('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a>');
+        map.attributionControl.addAttribution('<a href="http://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a>');
         var feature_group = new L.featureGroup([]);
         var bounds_group = new L.featureGroup([]);
         var raster_group = new L.LayerGroup([]);
@@ -219,7 +219,7 @@
         osmGeocoder.addTo(map);
         var baseMaps = {'OSM': basemap0};
         L.control.layers(baseMaps,{'<img src="legend/mapmapPoint2.png" /> map map Point': json_mapmapPoint2JSON,'<img src="legend/mapmapPolygon1.png" /> map map Polygon': json_mapmapPolygon1JSON,'<img src="legend/hulls60.png" /> hulls6': json_hulls60JSON,},{collapsed:false}).addTo(map);
-        map.locate({setView: true, maxZoom: 16});
+        map.locate({setView: true, maxZoom: 14});
         function onLocationFound(e) {
             var radius = e.accuracy / 2;
             L.marker(e.latlng).addTo(map)
