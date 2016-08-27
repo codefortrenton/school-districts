@@ -219,7 +219,7 @@
         osmGeocoder.addTo(map);
         var baseMaps = {'OSM': basemap0};
         L.control.layers(baseMaps,{'<img src="legend/mapmapPoint2.png" /> map map Point': json_mapmapPoint2JSON,'<img src="legend/mapmapPolygon1.png" /> map map Polygon': json_mapmapPolygon1JSON,'<img src="legend/hulls60.png" /> hulls6': json_hulls60JSON,},{collapsed:false}).addTo(map);
-        map.locate({setView: true, maxZoom: 16});
+        map.locate({setView: true, maxZoom: 14});
         function onLocationFound(e) {
             var radius = e.accuracy / 2;
             L.marker(e.latlng).addTo(map)
