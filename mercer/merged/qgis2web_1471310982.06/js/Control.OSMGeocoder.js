@@ -15,11 +15,12 @@ L.Control.OSMGeocoder = L.Control.extend({
                 console.log("ERROR: didn't find a result");
                 return;
             }
-			var bbox = results[0].boundingbox,
-			first = new L.LatLng(bbox[0], bbox[2]),
-			second = new L.LatLng(bbox[1], bbox[3]),
-			bounds = new L.LatLngBounds([first, second]);
-			this._map.fitBounds(bounds);
+		    var bbox = results[0].boundingbox,
+		    first = new L.LatLng(bbox[0], bbox[2]),
+		    second = new L.LatLng(bbox[1], bbox[3]),
+		    bounds = new L.LatLngBounds([first, second]);
+		    this._map.fitBounds(bounds);
+		    this._map.setZoom( 14);
 		}
 	},
 
